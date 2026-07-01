@@ -1,0 +1,19 @@
+canonical_identifier: bkk:krp/KR6v0452/b/v1/juan/0
+seq: 0
+front:
+  text: 法性偈序華嚴是佛教之宗源十玄乃華嚴之極談相法師略引十玄之大綱我師道峰和尚條分縷析之不有得力於華嚴安可措詞於極談之閫奧者哉我師晚年尤好於法性偈註而解之釋而記之將為刻之以傳於後矣大願未畢棄於世嗚呼哀哉我等後生欲效先志以傳後事問於影波和尚曰近觀學者之心有信於佛教者寡矣設費財而刻之希慕願印者鮮矣不如善寫之布於宗門嘉矣余觀世心果然果然兹命善寫以代其刻法性偈之德不告靈言而驗矣何也大小設齋之時法主振鈴一下云召請中位云則引導應聲以法性偈一通誦之其功其德不言而知矣歲在己巳二月日弟子賢陟謹序
+  hash: sha256:5b3ea6444a9338503d6b3196ed251b832fd40902231d302c93b85f7519012883
+  markers:
+  - {type: 序, offset: 0, content: 序, id: KR6v0452_B_000-mulu-1, level: '1'}
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 義相法師法性偈
+  edition:
+    short: b
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B32/B32n0191.xml
+    old_id: B32n0191
+hash: sha256:a1f66bcebca189bf9e4c2bf3569caa755e1a5e2d1ee62a6d14f33efb0d845401

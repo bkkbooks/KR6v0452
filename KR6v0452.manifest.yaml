@@ -1,0 +1,70 @@
+canonical_identifier: bkk:krp/KR6v0452/v1
+canonical_location: https://kanripo.org/bkk/KR6v0452/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 義相法師法性偈
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/B/B32/B32n0191.xml
+    old_id: B32n0191
+  edition:
+    short: bkk
+editions:
+- short: 補編
+  label: 補編
+  source_xml_id: wit.orig
+- short: B
+assets:
+  parts:
+  - {seq: 0, filename: KR6v0452_000.yaml, hash: 'sha256:bc4bac31602af8564b890d68b1b8d195365cc4dbaf3fbe41e2a7c14419ab1a06'}
+  - {seq: 1, filename: KR6v0452_001.yaml, hash: 'sha256:94432f7425d0936f3419d6610bf7b1f556bd9fc700b9658fa1f7fc12f1a5b4b0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6v0452_000.markers.yaml, hash: 'sha256:9bb1b1dd189c5e6d553ff98a3874d2f00a57b88ae700edb60113d9fd61650bee'}
+  - {seq: 1, role: markers, filename: assets/KR6v0452_001.markers.yaml, hash: 'sha256:d0b56e821fd764868fac7319e1cf9bc7251b89986e3f224aa3e5326ca47f6032'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6v0452_B_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0452_B_001-juan-start
+    span:
+    - body
+    - 0
+    - 2058
+  label: 大方廣佛華嚴經義相法師法性偈
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0452_B_001-mulu-1
+    span:
+    - body
+    - 20
+    - 20
+  label: 科註
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6v0452_B_001-mulu-2
+    span:
+    - body
+    - 1610
+    - 1610
+  label: 蓮潭和尚論辨
+  type: mulu
+  level: 1
+hash: sha256:64e9e475e3fa4c5ec84a1eb979b083fd5bfdbe1c085c69915dbd701affc7c14f
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
