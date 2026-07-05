@@ -18,11 +18,11 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0452_000.yaml, hash: 'sha256:bc4bac31602af8564b890d68b1b8d195365cc4dbaf3fbe41e2a7c14419ab1a06'}
-  - {seq: 1, filename: KR6v0452_001.yaml, hash: 'sha256:94432f7425d0936f3419d6610bf7b1f556bd9fc700b9658fa1f7fc12f1a5b4b0'}
+  - {seq: 0, filename: KR6v0452_000.yaml, hash: 'sha256:a1f66bcebca189bf9e4c2bf3569caa755e1a5e2d1ee62a6d14f33efb0d845401'}
+  - {seq: 1, filename: KR6v0452_001.yaml, hash: 'sha256:c8c3a6b2d7c3ba5df3ecc6e83774b7a87c7198ba3db080a482eb927acdf7a4b6'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0452_000.markers.yaml, hash: 'sha256:9bb1b1dd189c5e6d553ff98a3874d2f00a57b88ae700edb60113d9fd61650bee'}
-  - {seq: 1, role: markers, filename: assets/KR6v0452_001.markers.yaml, hash: 'sha256:d0b56e821fd764868fac7319e1cf9bc7251b89986e3f224aa3e5326ca47f6032'}
+  - {seq: 0, role: markers, filename: assets/KR6v0452_000.markers.yaml, hash: 'sha256:24318f1350147c6051ba189fd35f372a5218fd5180e410f48a5e728f890603c6'}
+  - {seq: 1, role: markers, filename: assets/KR6v0452_001.markers.yaml, hash: 'sha256:34bebadd7e123656869ac21f4d307f2bcb5cd8203829b8c16d75bcf07084c7db'}
 table_of_contents:
 - ref:
     seq: 0
@@ -64,7 +64,4 @@ table_of_contents:
   label: 蓮潭和尚論辨
   type: mulu
   level: 1
-hash: sha256:64e9e475e3fa4c5ec84a1eb979b083fd5bfdbe1c085c69915dbd701affc7c14f
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:d491ca2fcf049b480f65457a6cfbda18ebd6917c1d435807348101ce99dc68bd
