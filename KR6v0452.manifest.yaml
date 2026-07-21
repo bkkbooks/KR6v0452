@@ -18,17 +18,17 @@ editions:
 - short: B
 assets:
   parts:
-  - {seq: 0, filename: KR6v0452_000.yaml, hash: 'sha256:0330aadd658031ac9cce513c06b8ea08fb90c4c27f98dd69579407c00cdaed20'}
+  - {seq: 0, filename: KR6v0452_000.yaml, hash: 'sha256:d4ad60db12a5f5f3ef4381c81dac17808d8aab8cd503ac26a961ec3871d2b740'}
   - {seq: 1, filename: KR6v0452_001.yaml, hash: 'sha256:4bde20332885ba53a1fb6408c2437c44a86e79c6081aeaed084ecac21519ea19'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6v0452_000.markers.yaml, hash: 'sha256:2d3c1211b0a1be334ad56c78fdbb3223919b460c2919623f8db5ed88bdba1033'}
+  - {seq: 0, role: markers, filename: assets/KR6v0452_000.markers.yaml, hash: 'sha256:8e646ebcd4d7816bb7ac1661e75762322b6e20d4cb6a93a09b725d6da222c551'}
   - {seq: 1, role: markers, filename: assets/KR6v0452_001.markers.yaml, hash: 'sha256:c24860d0892e50e0b87ae375216ccef244f2c09dba169f57390f3be27b323b4b'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6v0452_B_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: 序
@@ -64,7 +64,7 @@ table_of_contents:
   label: 蓮潭和尚論辨
   type: mulu
   level: 1
-hash: sha256:842413ffd02d2cd2fba3129d67df40cc018395621f26630309b1cfc186d6cfa5
+hash: sha256:52b883cb61795a10753dc63ed22f472b76045df1ebd6a1caaada48860856049e
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
